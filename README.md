@@ -46,7 +46,7 @@
 - Apprentice-皓-第九大区-https://github.com/kiaorahao/IA003BP
 - 刘宇旸-第九大区-https://github.com/happylyy/IA003BP
 - 舟舟（观察员）-第九大区-
-- 小麦（观察员）-第九大区-
+- 小麦（观察员）-珠三角大区-
 - 廼忠（观察员）-北京大区-
 
 # 项目执行计划
