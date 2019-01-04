@@ -36,7 +36,7 @@
   - 再现佛教十八层地狱[5]，佛陀500罗汉讲述金刚经[6]
 
 - 其他：
-  - 禅修、冥想：美国有数十亿产业规模[7]，再现大海、森林等场景，身临其境，同时有3D导师、多位同修在身边一起禅修。
+  - 禅修、冥想：美国有数十亿产业规模[7]，再现大海、森林等场景，身临其境，同时有3D导师、多位同修在身边一起禅修。关于冥想的科学论文研究我写过一个文献综述，见参考资料[11]。
 
 ## 结课要求：
 1. 完成人工智能技术在教育文化产业4个应用领域的最小全局认识；
@@ -70,7 +70,6 @@
 # 参考资料：
 
 1. [人类自尊的第四次打击 - 阳志平的网志](https://www.yangzhiping.com/psy/alphago-winner.html)
-
 2. [罗振宇跨年演讲完整版：2017年小心这5只黑天鹅_科技_腾讯网](http://tech.qq.com/a/20170101/002776.htm)
 
 3. [腾讯任宇昕：科技助力中华文明复兴，畅想AI学习传统文化_科技_环球网](http://tech.huanqiu.com/news/2017-11/11407638.html)
@@ -87,4 +86,5 @@
 
 9. [角色扮演游戏](https://zh.wikipedia.org/wiki/角色扮演游戏)
 
-[^10]: [薛宝钗和贾宝玉、林黛玉“斗诗”](http://blog.sina.com.cn/s/blog_44b8132601017bal.html)
+10. [薛宝钗和贾宝玉、林黛玉“斗诗”](http://blog.sina.com.cn/s/blog_44b8132601017bal.html)
+11. [Effect of meditation practices on cognition of attention, working memory and executive functions](https://medium.com/@kiaorahao/effect-of-meditation-practices-on-cognition-of-attention-working-memory-and-executive-functions-7e268357063)
