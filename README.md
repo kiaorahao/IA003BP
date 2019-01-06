@@ -49,7 +49,6 @@
 - 其他：
   - 禅修、冥想：美国有数十亿产业规模[7]，再现大海、森林等场景，身临其境，同时有3D导师、多位同修在身边一起禅修。关于冥想的科学论文研究我写过一个文献综述，见参考资料[11]。
 
-
 ## 团队成员
 - Apprentice-皓-第九大区-https://github.com/kiaorahao/IA003BP
 - 刘宇旸-第九大区-https://github.com/happylyy/IA003BP
@@ -69,6 +68,7 @@
 - 3wd4 团队征集V1.0
 - 4wd5 团队征集V2.0
 
+[项目进展每日监控 · Issue #6 · kiaorahao/IA003BP](https://github.com/kiaorahao/IA003BP/issues/6)
 
 ## Changelog
 - V1.0-20181227：初稿
