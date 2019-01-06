@@ -68,7 +68,7 @@
 - 3wd4 团队征集V1.0
 - 4wd5 团队征集V2.0
 
-[项目进展每日监控 · Issue #6 · kiaorahao/IA003BP](https://github.com/kiaorahao/IA003BP/issues/6)
+[项目每日进展监控](https://github.com/kiaorahao/IA003BP/blob/master/BP%20Monitor.md)
 
 ## Changelog
 - V1.0-20181227：初稿
