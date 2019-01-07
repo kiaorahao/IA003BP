@@ -113,6 +113,9 @@
 
 [项目每日进展监控](https://github.com/kiaorahao/IA003BP/blob/master/BP%20Monitor.md)
 
+## 项目原则
+[IA003BP/BP_Principles](https://github.com/kiaorahao/IA003BP/blob/master/BP_Principles)
+
 ## Changelog
 - V1.0-20181227：初稿
 - V2.0-20190104：二稿，上位词扩展，新入碗队员-刘宇旸
