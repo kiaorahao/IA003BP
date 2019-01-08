@@ -2,8 +2,8 @@
 ### 1. 项目协同工具：
 
 - 参考文档收集：zotero
-- 协作文件存放：github code
-- 异步沟通，个人思路整理：github issues
+- 协作文件存放（收敛）：github code/wiki
+- 异步沟通，个人思路整理（发散）：github issues
 
 需要协同的信息尽可能都放到github上，可以互相交流学习，了解各自进展。
 - 同步沟通：微信
