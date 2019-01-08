@@ -39,6 +39,7 @@
 
 ### 4. commit message 用语规范.
 *参考corporate-strategic小组*
+
 参考于:[GitHub Commit message 用语规范 | 安人集团](https://github.com/OpenMindClub/Share/wiki/HbGitHubCommitMessage)
 
 请写**有区分度**的commit message.以便自己日后查看过往版本时一目了然,也方便同伴愉快合作.
@@ -59,4 +60,5 @@
 1. 完成各自分工
 2. 每日复盘和计划：[IA003BP/BP Monitor.md](https://github.com/kiaorahao/IA003BP/blob/master/BP%20Monitor.md)
 3. 不定时、不定期同步、异步沟通。
+
 包括：隔天一次沟通会等。
