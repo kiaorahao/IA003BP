@@ -1,10 +1,11 @@
 
-## 项目协同原则：
+## 项目协同工具：
 
-文档收集整理：zotero
-项目文件存放：github code
-异步沟通：github issues
-同步沟通：微信
+
+- 参考文档收集：zotero
+- 协作文件存放：github code
+- 异步沟通：github issues
+- 同步沟通：微信
 
 ## 每日工作清单：
 
