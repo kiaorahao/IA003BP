@@ -7,3 +7,6 @@
 
 - Markdown自动生成表格
 [Markdown之表格的处理-图灵社区](http://www.ituring.com.cn/article/3452)
+
+- zotero 坚果云 mac
+[Zotero 管理文献最佳实践： （1）安装与设置 - 蓝雨衣](http://blog.fangzhou.me/posts/2018-04-09.html)
