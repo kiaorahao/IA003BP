@@ -1,8 +1,10 @@
 ## TOC
 - ~~[W5D0_Sun_20190106](#W5D0_Sun_20190106)~~
 - ~~[W5D1_Mon_20190107](#W5D1_Mon_20190107)~~
-- [W5D2_Tue_20190108](#W5D2_Tue_20190108)
+- ~~[W5D2_Tue_20190108](#W5D2_Tue_20190108)~~
 - [W5D3_Wes_20190109](#W5D3_Wes_20190109)
+- [W5D4_Thu_20190110](#W5D4_Thu_20190110)
+
 ## W5D0_Sun_20190106
 ### As-Is：
 #### 皓：
@@ -82,17 +84,31 @@ zotero/notes/IA003BP_Dictionary.xlsx
 
 #### 宇旸：
 #### 林峰：
+
 ### To-Be：
-1. 解决issue [BP主题如何进一步明确？ · Issue #10 · kiaorahao/IA003BP](https://github.com/kiaorahao/IA003BP/issues/10)
-2. 参考其他组设计
 
 #### 皓：
+1. 解决issue [BP主题如何进一步明确？ · Issue #10 · kiaorahao/IA003BP](https://github.com/kiaorahao/IA003BP/issues/10)
+2. 参考其他组设计
 
 #### 宇旸：
 #### 林峰：
 ***#问题#***
 
 ## W5D3_Wes_20190109
+### As-Is：
+#### 皓：
+
+#### 宇旸：
+#### 林峰：
+### To-Be：
+#### 皓：
+
+#### 宇旸：
+#### 林峰：
+***#问题#***
+
+## W5D4_Thu_20190110
 ### As-Is：
 #### 皓：
 
