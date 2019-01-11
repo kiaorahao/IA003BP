@@ -4,8 +4,9 @@
 - ~~[W5D2_Tue_20190108](#W5D2_Tue_20190108)~~
 - ~~[W5D3_Wes_20190109](#W5D3_Wes_20190109)~~
 - ~~[W5D4_Thu_20190110](#W5D4_Thu_20190110)~~
-- [W5D5_Fri_20190111](#W5D5_Fri_20190111)
+- ~~[W5D5_Fri_20190111](#W5D5_Fri_20190111)~~
 - [W5D6_Sat_20190112](#W5D6_Sat_20190112)
+- [W6D0_Sun_20190113](#W6D0_Sun_20190113)
 
 ## W5D0_Sun_20190106
 ### As-Is：
@@ -181,6 +182,7 @@ Done，已提问 [【通知】5wd4来参加结业交流会吧](https://m.openmin
 ***#问题#***
 
 ## W5D5_Fri_20190111
+**说明** 由晚上总结改成早上，直接+1 day 到下一天
 ### As-Is：
 #### 皓：
 
@@ -200,6 +202,30 @@ Done，已提问 [【通知】5wd4来参加结业交流会吧](https://m.openmin
 ### As-Is：
 #### 皓：
 
+> - 写 [IA003BP/Template/分析报告模板.md](https://github.com/kiaorahao/IA003BP/blob/master/Template/%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A%E6%A8%A1%E6%9D%BF.md)
+
+Done
+
+> - 开始文化赛道初步分析
+
+还没开始，到周日会议前集中精力做这块
+
+**其他：**
+
+github create:
+- [IA003BP/BP_BrainTrust](https://github.com/kiaorahao/IA003BP/blob/master/BP_BrainTrust.md)
+
+github add:
+- [其他项目.md · kiaorahao/IA003BP Wiki](https://github.com/kiaorahao/IA003BP/wiki/%E5%85%B6%E4%BB%96%E9%A1%B9%E7%9B%AE.md)
+- [从路演到倒推BP实施？ · Issue #14 · kiaorahao/IA003BP](https://github.com/kiaorahao/IA003BP/issues/14)
+
+- [从路演到倒推BP实施？ · Issue #14 · kiaorahao/IA003BP](https://github.com/kiaorahao/IA003BP/issues/14)
+
+github refactor：根据会议02调整
+- [从路演到倒推BP实施？ · Issue #14 · kiaorahao/IA003BP](https://github.com/kiaorahao/IA003BP/issues/14)
+- [IA003BP/Keynote.md at master · kiaorahao/IA003BP](https://github.com/kiaorahao/IA003BP/blob/master/Delivery_List/Keynote.md)
+- [IA003BP/Report_TOC.md at master · kiaorahao/IA003BP](https://github.com/kiaorahao/IA003BP/blob/master/Delivery_List/Report_TOC.md)
+
 #### 宇旸：
 >1. 在知网中确认“虚拟现实”的所属学科“计算机仿真”，针对学科中全部硕博论文进行分析后，找到“虚拟现实”词条的相关词条。
 >2. 找到一批国内最高被引论文/经典论文。
@@ -207,8 +233,13 @@ Done，已提问 [【通知】5wd4来参加结业交流会吧](https://m.openmin
 >1.研究软件项目敏捷开发方式，试着套用在该BP项目中，尽量将其套用已有的信息和劳动成果，减少认知复杂度。
 >2.确定国内将虚拟技术应用在教育领域的公司，锁定在上市公司和新三板方向。不排除正在融资的创业公司。
 #### 安庆虎：
+
 ### To-Be：
 #### 皓：
+文化赛道初步分析，形成初步框架
+[商业分析研究草稿之VR+文化赛道 · Issue #17 · kiaorahao/IA003BP](https://github.com/kiaorahao/IA003BP/issues/17)
+创建项目看板
+[BP workflow](https://github.com/kiaorahao/IA003BP/projects/1?add_cards_query=is%3Aopen)
 
 #### 宇旸：
 >1. 找到“虚拟现实”领域国内的大牛。
@@ -216,5 +247,21 @@ Done，已提问 [【通知】5wd4来参加结业交流会吧](https://m.openmin
 #### 林峰：
 >1.查询相关公司的基本信息
 >2.查询相关公司的专利情况
+#### 安庆虎：
+***#问题#***
+
+## W6D0_Sun_20190113
+
+### As-Is：
+#### 皓：
+
+#### 宇旸：
+#### 林峰：
+#### 安庆虎：
+### To-Be：
+#### 皓：
+
+#### 宇旸：
+#### 林峰：
 #### 安庆虎：
 ***#问题#***
