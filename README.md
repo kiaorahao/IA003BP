@@ -129,6 +129,8 @@
 ## 项目智囊团
 [IA003BP/BP_BrainTrust](https://github.com/kiaorahao/IA003BP/blob/master/BP_BrainTrust.md)
 
+[其他项目](https://github.com/kiaorahao/IA003BP/wiki/%E5%85%B6%E4%BB%96%E9%A1%B9%E7%9B%AE.md)
+
 ## Changelog
 - V1.0-20181227：初稿
 - V2.0-20190104：二稿，上位词扩展，新入碗队员-刘宇旸
