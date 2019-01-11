@@ -237,8 +237,11 @@ github refactor：根据会议02调整
 ### To-Be：
 #### 皓：
 文化赛道初步分析，形成初步框架
+
 [商业分析研究草稿之VR+文化赛道 · Issue #17 · kiaorahao/IA003BP](https://github.com/kiaorahao/IA003BP/issues/17)
+
 创建项目看板
+
 [BP workflow](https://github.com/kiaorahao/IA003BP/projects/1?add_cards_query=is%3Aopen)
 
 #### 宇旸：
