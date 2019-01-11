@@ -126,6 +126,9 @@
 ## 项目原则
 [IA003BP/BP_Principles](https://github.com/kiaorahao/IA003BP/blob/master/BP_Principles)
 
+## 项目智囊团
+[IA003BP/BP_BrainTrust](https://github.com/kiaorahao/IA003BP/blob/master/BP_BrainTrust.md)
+
 ## Changelog
 - V1.0-20181227：初稿
 - V2.0-20190104：二稿，上位词扩展，新入碗队员-刘宇旸
