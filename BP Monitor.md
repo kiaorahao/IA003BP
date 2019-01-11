@@ -3,8 +3,9 @@
 - ~~[W5D1_Mon_20190107](#W5D1_Mon_20190107)~~
 - ~~[W5D2_Tue_20190108](#W5D2_Tue_20190108)~~
 - ~~[W5D3_Wes_20190109](#W5D3_Wes_20190109)~~
-- [W5D4_Thu_20190110](#W5D4_Thu_20190110)
+- ~~[W5D4_Thu_20190110](#W5D4_Thu_20190110)~~
 - [W5D5_Fri_20190111](#W5D5_Fri_20190111)
+- [W5D6_Sat_20190112](#W5D6_Sat_20190112)
 
 ## W5D0_Sun_20190106
 ### As-Is：
@@ -139,14 +140,44 @@ wiki 增加其他BP 仓库
 ## W5D4_Thu_20190110
 ### As-Is：
 #### 皓：
+> 1.争取close issue [BP主题如何进一步明确？ · Issue #10 · kiaorahao/IA003BP](https://github.com/kiaorahao/IA003BP/issues/10)
 
+> 收敛到AR或上位词**计算机仿真**
+
+> 最好能找到一个适合落地的产品。review AR行业报告参考目前可能的应用
+
+重新确定结课题目：虚拟现实（VR）技术在中国传统文化教育领域典型应用分析
+
+> 2. 参考其他BP项目优化 TOC
+
+>[IA003BP/Report_TOC.md at master · kiaorahao/IA003BP](https://github.com/kiaorahao/IA003BP/blob/master/Report_TOC.md)
+
+Wiki 增加其他BP，重点是再次强调 时间空间变量关系维度
+
+> 3. 准备会议02
+> - 确定BP主题，展开分工
+
+Done
+
+> 4. 准备项目组会
+> - 提问，写issue 征集问题。
+
+Done，已提问 [【通知】5wd4来参加结业交流会吧](https://m.openmindclub.com/stu/IA003/discussion/51ade664-efc5-46f6-9ef7-8837c73a2053)
 #### 宇旸：
 #### 林峰：
+#### 安庆虎：
+
 ### To-Be：
 #### 皓：
 
+- 写 [IA003BP/Template/分析报告模板.md](https://github.com/kiaorahao/IA003BP/blob/master/Template/%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A%E6%A8%A1%E6%9D%BF.md)
+
+- 开始文化赛道初步分析
+
+
 #### 宇旸：
 #### 林峰：
+#### 安庆虎：
 ***#问题#***
 
 ## W5D5_Fri_20190111
@@ -155,9 +186,27 @@ wiki 增加其他BP 仓库
 
 #### 宇旸：
 #### 林峰：
+#### 安庆虎：
 ### To-Be：
 #### 皓：
 
 #### 宇旸：
 #### 林峰：
+#### 安庆虎：
+***#问题#***
+
+
+## W5D6_Sat_20190112
+### As-Is：
+#### 皓：
+
+#### 宇旸：
+#### 林峰：
+#### 安庆虎：
+### To-Be：
+#### 皓：
+
+#### 宇旸：
+#### 林峰：
+#### 安庆虎：
 ***#问题#***
