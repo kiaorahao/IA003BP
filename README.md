@@ -121,6 +121,8 @@
 ## 项目执行进度
 - 3wd4 团队征集V1.0
 - 4wd5 团队征集V2.0
+- 5wd2 20190108 [第一次线上碰头会](https://github.com/kiaorahao/IA003BP/issues/7)
+- 5wd4 20190110 [第二次线上碰头会](https://github.com/kiaorahao/IA003BP/issues/7)：确定分工，分头采集数据
 
 [项目每日进展监控](https://github.com/kiaorahao/IA003BP/blob/master/BP%20Monitor.md)
 
