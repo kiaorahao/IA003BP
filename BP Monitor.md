@@ -5,8 +5,9 @@
 - ~~[W5D3_Wes_20190109](#W5D3_Wes_20190109)~~
 - ~~[W5D4_Thu_20190110](#W5D4_Thu_20190110)~~
 - ~~[W5D5_Fri_20190111](#W5D5_Fri_20190111)~~
-- [W5D6_Sat_20190112](#W5D6_Sat_20190112)
+- ~~[W5D6_Sat_20190112](#W5D6_Sat_20190112)~~
 - [W6D0_Sun_20190113](#W6D0_Sun_20190113)
+- [W6D1_Mon_20190114](#W6D1_Mon_20190114)
 
 ## W5D0_Sun_20190106
 ### As-Is：
@@ -219,8 +220,6 @@ github add:
 - [其他项目.md · kiaorahao/IA003BP Wiki](https://github.com/kiaorahao/IA003BP/wiki/%E5%85%B6%E4%BB%96%E9%A1%B9%E7%9B%AE.md)
 - [从路演到倒推BP实施？ · Issue #14 · kiaorahao/IA003BP](https://github.com/kiaorahao/IA003BP/issues/14)
 
-- [从路演到倒推BP实施？ · Issue #14 · kiaorahao/IA003BP](https://github.com/kiaorahao/IA003BP/issues/14)
-
 github refactor：根据会议02调整
 - [从路演到倒推BP实施？ · Issue #14 · kiaorahao/IA003BP](https://github.com/kiaorahao/IA003BP/issues/14)
 - [IA003BP/Keynote.md at master · kiaorahao/IA003BP](https://github.com/kiaorahao/IA003BP/blob/master/Delivery_List/Keynote.md)
@@ -260,6 +259,26 @@ Done
 
 ### As-Is：
 #### 皓：
+> 文化赛道初步分析，形成初步框架
+
+>[商业分析研究草稿之VR+文化赛道 · Issue #17 · kiaorahao/IA003BP](https://github.com/kiaorahao/IA003BP/issues/17)
+
+Update:
+
+- 风险点。
+
+create:
+
+- [AR 典型企业清单 · Issue #18 · kiaorahao/IA003BP](https://github.com/kiaorahao/IA003BP/issues/18)
+
+- [AR 主要赛道清单 · Issue #19 · kiaorahao/IA003BP](https://github.com/kiaorahao/IA003BP/issues/19)
+
+
+> 创建项目看板
+
+> [BP workflow](https://github.com/kiaorahao/IA003BP/projects/1?add_cards_query=is%3Aopen)
+
+Done
 
 #### 宇旸：
 #### 林峰：
@@ -267,6 +286,27 @@ Done
 >2. 公司销售利润（如果是上市公司，使用开智分享的excel工具分析)
 #### 安庆虎：
 ### To-Be：
+
+#### 皓：
+
+- 准备会议03
+- 文化赛道进一步分析
+
+#### 宇旸：
+#### 林峰：
+#### 安庆虎：
+***#问题#***
+
+## W6D1_Mon_20190114
+
+### As-Is：
+#### 皓：
+#### 宇旸：
+#### 林峰：
+
+#### 安庆虎：
+### To-Be：
+
 #### 皓：
 
 #### 宇旸：
