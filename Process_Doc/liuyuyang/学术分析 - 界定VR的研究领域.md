@@ -4,64 +4,50 @@
 
 要点：按照学科线索检索整个领域。首先找到学科的所有论文，通过关键词贡献网络进行分析、对比，缩小学科范围，找到最重要的20%的论文。
 
-
-
 ### 1.2.1 知网指数页面检索关键词“虚拟现实”
 
 在[知网指数](http://kns.cnki.net/kns/brief/default_result.aspx?islist=1&code=CIDX&singleDBName=%E6%8C%87%E6%95%B0)页面检索“虚拟现实”，分布学科主要集中在计算机软件及计算机应用，相关词汇有
 
-![](C:\Users\Administrator\Downloads\火狐截图_2019-01-11T15-46-36.401Z.png)
-C:\Users\Administrator\Downloads\火狐截图_2019-01-11T15-46-36.401Z.png
+![图片.png](https://upload-images.jianshu.io/upload_images/15441001-22a7a4421fee82cd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 经典论文有：
 
-![](C:\Users\Administrator\Downloads\知网-经典论文.png)
-
+![图片.png](https://upload-images.jianshu.io/upload_images/15441001-81d1f958f97cb124.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 之前在分析AR的上位词和下位词的时候，了解到AR融合了计算机仿真、计算机图形学、人工智能等技术，其论文主要归属于[模式识别与装置](javascript:void(0);)以及[计算机仿真](javascript:void(0);)这两个子学科。而在虚拟现实领域被引最高的论文均属于TP391.9分类即计算机仿真，因此初步将论文检索的范围划定为计算机仿真，然后结合模式识别与装置分类中与虚拟现实有关的论文进行分析。
 
-
-
 ### 1.2.2 硕博论文检索。
 
 检索在计算机仿真领域所有的硕博论文，共有9100条结果。对所有文献进行可视化分析，在关键词共现网络分析时，将聚类分析的参数设为6，发现**仿真系统**和**虚拟现实技术**从属于不同的聚类。
-
-![](C:\Users\Administrator\Downloads\计算机仿真全部硕博论文.png)
-
-
+![图片.png](https://upload-images.jianshu.io/upload_images/15441001-949edb772b31e88a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 在关系分析中选择点击临近节点并勾选显示共现次数，发现与**虚拟现实技术**紧密相关的关键词有**虚拟环境**，**虚拟现实系统**，**碰撞检测**；与**虚拟现实系统**紧密相关的关键词除了上面提到过的还有**虚拟漫游**。
 
 以虚拟现实技术为中心，还有三个小的聚类，分别是**三维模型**，**增强现实**，**虚拟仪器**。出乎预期的是，**三维模型**关键词在整个关键词网络中与其他关键词关系非常紧密，推测是一种使用比较广泛的技术。
 
-![](C:\Users\Administrator\Downloads\计算机仿真现实共现次数.png)
-
-![](C:\Users\Administrator\Downloads\三维模型.png)
+![图片.png](https://upload-images.jianshu.io/upload_images/15441001-b9b8a37ed78df160.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![图片.png](https://upload-images.jianshu.io/upload_images/15441001-2b2fb36348292473.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 用同样的方法在“**模式识别与装置**”学科检索博士论文，对关键词共现网络进行分析时并没有看到虚拟现实关键词；将检索范围扩大到硕博论文，也没有发现虚拟现实关键词。
 
 将学科范围扩大到上层学科“信息处理（信息加工）”，检索博士论文，对结果分析时发现模式识别领域的关键词数量太强大，以至于完全忽略了虚拟现实，于是放弃在这个领域进行检索。
 
-
-
-### 1.2.3 虚拟现实相关关键词总结 
+### 1.2.3 虚拟现实相关关键词总结
 
 通过以上分析，将虚拟现实的主要科学锁定在“**计算机仿真**”学科，同时发现计算机仿真中存在两大分支：虚拟现实和仿真系统。从而未来在通过计算机仿真学科博士论文来了解虚拟现实的最小全局认识时，可以把重点放在虚拟现实技术以及从属于同一簇的词条上。
 
-| 关键词       | 出现次数 | 英文 |
-| ------------ | -------- | ---- |
-| 虚拟现实技术 | 1295     |      |
-| 虚拟现实     | 1075     |      |
-| 虚拟环境     | 753      |      |
-| 碰撞检测     | 634      |      |
-| 虚拟现实系统 | 286      |      |
-| 虚拟漫游     | 220      |      |
-| 三维模型     | 247      |      |
-| 虚拟仪器     | 251      |      |
-| 增强现实     | 213      |      |
-
-
+| 关键词 | 出现次数 | 英文 |
+| --- | --- | --- |
+| 虚拟现实技术 | 1295 |  |
+| 虚拟现实 | 1075 |  |
+| 虚拟环境 | 753 |  |
+| 碰撞检测 | 634 |  |
+| 虚拟现实系统 | 286 |  |
+| 虚拟漫游 | 220 |  |
+| 三维模型 | 247 |  |
+| 虚拟仪器 | 251 |  |
+| 增强现实 | 213 |  |
 
 ### 1.2.4 在万方数据库进行交叉验证
 
@@ -71,17 +57,10 @@ C:\Users\Administrator\Downloads\火狐截图_2019-01-11T15-46-36.401Z.png
 
 相关词条：
 
-![](C:\Users\Administrator\Downloads\万方-相关主题词.png)
-
-
-
-
-
-
+![图片.png](https://upload-images.jianshu.io/upload_images/15441001-5a0f78a19c82ad2e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### 1.2.5 下载**计算机仿真**学科博士论文
 
 找到论文525篇，导入zotero，并分析其关键词共现网络，得到如下信息：
 
-![](C:\Users\Administrator\Downloads\知网-计算机仿真-博士.png)
-
+![图片.png](https://upload-images.jianshu.io/upload_images/15441001-38392bc1b1b224bb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
