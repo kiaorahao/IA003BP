@@ -7,8 +7,9 @@
 - ~~[W5D5_Fri_20190111](#W5D5_Fri_20190111)~~
 - ~~[W5D6_Sat_20190112](#W5D6_Sat_20190112)~~
 - ~~[W6D0_Sun_20190113](#W6D0_Sun_20190113)~~
-- [W6D1_Mon_20190114](#W6D1_Mon_20190114)
+- ~~[W6D1_Mon_20190114](#W6D1_Mon_20190114)~~
 - [W6D2_Tue_20190115](#W6D2_Tue_20190115)
+- [W6D3_Wes_20190116](#W6D3_Wes_20190116)
 
 ## W5D0_Sun_20190106
 ### As-Is：
@@ -327,6 +328,39 @@ review卡包相关资料
 ***#问题#***
 
 ## W6D2_Tue_20190115
+
+### As-Is：
+#### 皓：
+
+> - 文化赛道进一步分析
+
+- review 行业报告，了解AR行业发展情况
+- 确定分析公司属性：内容创作为主，或者实际落地产品为主
+- 分析身临其境公司
+
+其他：
+- create issue [AR相关媒体清单](https://github.com/kiaorahao/IA003BP/issues/24)
+- create issue [商业分析研究草稿之VR+第三赛道](https://github.com/kiaorahao/IA003BP/issues/23)
+- add issue [AR 典型企业清单](https://github.com/kiaorahao/IA003BP/issues/18)
+- add issue [学术分析研究草稿](https://github.com/kiaorahao/IA003BP/issues/15)
+
+#### 宇旸：
+#### 林峰：
+
+#### 安庆虎：
+### To-Be：
+
+#### 皓：
+- 准备会议04
+- 文化赛道进一步分析
+- 梳理PPT框架
+
+#### 宇旸：
+#### 林峰：
+#### 安庆虎：
+***#问题#***
+
+## W6D3_Wes_20190116
 
 ### As-Is：
 #### 皓：
