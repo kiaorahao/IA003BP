@@ -11,6 +11,7 @@
 在[知网指数](http://kns.cnki.net/kns/brief/default_result.aspx?islist=1&code=CIDX&singleDBName=%E6%8C%87%E6%95%B0)页面检索“虚拟现实”，分布学科主要集中在计算机软件及计算机应用，相关词汇有
 
 ![](C:\Users\Administrator\Downloads\火狐截图_2019-01-11T15-46-36.401Z.png)
+C:\Users\Administrator\Downloads\火狐截图_2019-01-11T15-46-36.401Z.png
 
 经典论文有：
 
