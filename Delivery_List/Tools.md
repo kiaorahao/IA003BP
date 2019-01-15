@@ -1,4 +1,5 @@
-工具整理：
+## 工具整理：
+### Github
 - 自动创建readme.md 的 TOC 
 [kiaorahao/github-markdown-toc: Easy TOC creation for GitHub README.md](https://github.com/kiaorahao/github-markdown-toc)
 
@@ -7,6 +8,10 @@
 
 - Markdown自动生成表格
 [Markdown之表格的处理-图灵社区](http://www.ituring.com.cn/article/3452)
+
+### Zotero
+- 批量删除所有重复文件
+[Merge all duplicates - Zotero Forums](https://forums.zotero.org/discussion/40457/merge-all-duplicates)
 
 - zotero 坚果云 mac
 [Zotero 管理文献最佳实践： （1）安装与设置 - 蓝雨衣](http://blog.fangzhou.me/posts/2018-04-09.html)
