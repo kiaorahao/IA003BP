@@ -50,6 +50,8 @@
 
 ## 参考资料
 
+https://github.com/serena333/OnlineEduToolkit/issues/2#issuecomment-453987805
+
 ## changelog
 20190111 V1.0 初稿
 20190115 V1.1 add 高雪莹 serena333
