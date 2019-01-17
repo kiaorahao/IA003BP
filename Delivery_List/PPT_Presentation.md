@@ -83,7 +83,7 @@ Owner:
 - 行业应用趋势
 - 公司评级
 
-**完成进度：80% **
+**完成进度：80%**
 
 [2. VR行业的全局认识 · Issue #25 · kiaorahao/IA003BP](https://github.com/kiaorahao/IA003BP/issues/25)
 
@@ -107,7 +107,7 @@ Owner:
 
 [风语筑-战略控制指数分析 · Issue #28 · kiaorahao/IA003BP](https://github.com/kiaorahao/IA003BP/issues/28)
 
-**完成进度：80% **
+**完成进度：80%**
 
 3.2 国内竞争企业分析
 
