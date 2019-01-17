@@ -44,7 +44,7 @@ Owner:
 
 **完成进度：10%**
 
-1. VR学科的全局认识
+[1. VR学科的全局认识](https://github.com/kiaorahao/IA003BP/tree/master/Process_Doc/liuyuyang)
 
 1.1 时间：前世今生
 - 缘起
@@ -64,9 +64,8 @@ Owner:
 
 **完成进度：**
 
-[IA003BP/Process_Doc/liuyuyang at master · kiaorahao/IA003BP](https://github.com/kiaorahao/IA003BP/tree/master/Process_Doc/liuyuyang)
 
-2. VR行业的全局认识
+[2. VR行业的全局认识](https://github.com/kiaorahao/IA003BP/issues/25)
 
 2.1 时间：前世今生
 - 缘起
@@ -86,11 +85,9 @@ Owner:
 
 **完成进度：80%**
 
-[2. VR行业的全局认识 · Issue #25 · kiaorahao/IA003BP](https://github.com/kiaorahao/IA003BP/issues/25)
-
 3. 数字展示行业典型企业分析
 
-3.1 行业龙头企业-风语筑 全局认识
+[3.1 行业龙头企业-风语筑 全局认识](https://github.com/kiaorahao/IA003BP/issues/28)
 
 3.1.1 时间
 
@@ -106,8 +103,6 @@ Owner:
 - 销售利润情况：
 - 公司战略控制指数
 
-[风语筑-战略控制指数分析 · Issue #28 · kiaorahao/IA003BP](https://github.com/kiaorahao/IA003BP/issues/28)
-
 **完成进度：80%**
 
 3.2 国内竞争企业分析
@@ -116,14 +111,12 @@ Owner:
 
 **完成进度：10%**
 
-3.3 国外对标企业分析
-
-[外国对标企业应用篇](https://github.com/kiaorahao/IA003BP/issues/28)
+[3.3 国外对标企业分析](https://github.com/kiaorahao/IA003BP/issues/28)
 
 **完成进度：30%**
 
 
-4. 结论与洞察
+[4. 结论与洞察](https://github.com/kiaorahao/IA003BP/issues/29)
 
 ~~4.1 如何建立对一家VR公司的全局认识~~
 
@@ -134,8 +127,6 @@ Owner:
 - 有趣点、反常识点
 
 - 风险点
-
-[有趣度、反常识点提炼 · Issue #29 · kiaorahao/IA003BP](https://github.com/kiaorahao/IA003BP/issues/29)
 
 **完成进度：30%**
 
