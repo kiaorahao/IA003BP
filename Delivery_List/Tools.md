@@ -15,3 +15,10 @@
 
 - zotero 坚果云 mac
 [Zotero 管理文献最佳实践： （1）安装与设置 - 蓝雨衣](http://blog.fangzhou.me/posts/2018-04-09.html)
+
+### PPT 
+- 词云
+[超简单：快速制作一款高逼格词云图 - 简书](https://www.jianshu.com/p/4fb27471295f)
+
+- 字体
+[zongren/font: 用于个人博客所用的中文字体](https://github.com/zongren/font)
