@@ -9,6 +9,9 @@
 - Markdown自动生成表格
 [Markdown之表格的处理-图灵社区](http://www.ituring.com.cn/article/3452)
 
+- Markdown在线转pdf工具
+[MDtr2PDF - Converting Markdown to PDF online](http://www.mdtr2pdf.com/index_en.html)
+
 ### Zotero
 - 批量删除所有重复文件
 [Merge all duplicates - Zotero Forums](https://forums.zotero.org/discussion/40457/merge-all-duplicates)
