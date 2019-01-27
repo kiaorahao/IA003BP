@@ -134,7 +134,6 @@
 
 [其他项目](https://github.com/kiaorahao/IA003BP/wiki/%E5%85%B6%E4%BB%96%E9%A1%B9%E7%9B%AE.md)
 
-test
 
 ## Changelog
 - V1.0-20181227：初稿
