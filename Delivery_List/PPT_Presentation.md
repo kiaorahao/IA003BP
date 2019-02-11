@@ -107,7 +107,7 @@ Owner:
 
 **完成进度：80%**
 
-3.2 国内竞争企业分析
+[3.2 国内竞争企业分析](https://github.com/kiaorahao/IA003BP/issues/39)
 
 “IA003BP_Dictionary.Xlsx,” n.d.
 
